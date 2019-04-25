@@ -1,0 +1,24 @@
+@media screen and (min-width: 360px) {
+  body {
+    background-color: #367C2B;
+  }
+
+  .wwa {
+    text-align: center;
+    background-color: #FFDE00;
+  }
+
+  p {
+    text-align: left;
+  }
+
+  .wctof {
+    text-align: center;
+    background-color: #FFDE00;
+  }
+
+  .wwh {
+    text-align: center;
+    background-color: #FFDE00;
+  }
+}
