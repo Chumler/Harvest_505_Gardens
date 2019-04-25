@@ -1,0 +1,58 @@
+Farmers - non-GMO, vegetables, Chicken, vineyard, orchard, berry patch
+-- wants to create a healthy business
+-- has a Facebook page, some business cards, signs
+--- wants a website that has the location (directions, map)
+--- \\\wants a website that says "Who We Are"///
+--- \\\wants a "Why Come To Our Farm" and a "What We Have"///
+--- wants a "This Is What's Available" (possibly updatable [daily], needs to be user freindly)
+--- wants to include a contact reference portion that includes e-mail, phone and POSSIBLY a texting prompts
+---- wants to "advertise" the other local farmers, friends and partners
+---- wants to include a blog of some sort
+---- wants information from those who contact them (record or form)
+---- *CASH ONLY*
+----- Name: Harvest 505 Gardens
+----- No reviews, nok news coverage
+----- Why: Got started because of health issues. Doing permaculture. No pesticides. All organic.
+----- Facebook Page: [STATIC] Harvest Gardens
+---- the woodchips on the ground keep the ground moist and act as a mulch
+------ [CONTACT] - sharonjwelter@gmail.com
+------ [CONTACT] - patwelter57@gmail.com
+------ [CONTACT] - +1-(417)-654-5036
+----- current customers are young mothers with children
+----- Facebook Marketplace, Craigslist, Facebook
+----- tours of the farm - free
+----- wants to have a greenhouse of all tropical fruits and vegetables
+----- Slogan: "Food Is Your Medicine"
+----- will talk to people individually when it comes to medical & health benefits
+----- personal testimony will be included
+----- testimonies of previous customers will be included at a later date
+----- will eventually start having a air b&b to learn about practices
+----- face to face pickup on farm of all ordered products (meat cannot be delivered)
+----- delicate vegetabels and fruits are picked and brought into a cooler area in times of extreme heat
+------ will allow people to try the difference between fresh picked and processed
+------ no holiday events yet
+------ special updates
+------ the hours vary between customers but the client is available from "dawn to dusk"
+---- wants a form to have the quantity and what they want along with contact information from the customers
+----- does not have a logo and will accept drafts
+----- wants the farm to have a very local SEO
+------- wants creativity for the design
+------- wants the cost and the product to be simple to find
+------ doesn't change prices but rather availability
+---- find an alternative to availability
+--- offers roasted coffee
+---- no advertising - doesn't want to give food to those who won't eat it
+---- prices will change if a natural occurrence damages/improves growth of products
+----- doesn't push anything else more than others besides excess and low-labor
+---- doesn't want too many pages
+------ complimentary juices for those who come out
+----- request board for things to grow
+----- will come out to Springfield for restaurants
+---- will sell eggs
+---- will sell spices and herbs and dried products
+--- \\\would like a mobile-responsive website///
+---- preferance is texting
+---- anonymous blogging is alright to include
+---- linkedin account
+---- easy account linkage
+----- work with the design on the card for the logo
