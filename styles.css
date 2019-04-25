@@ -1,12 +1,28 @@
 h1 {
   font-family: "Times New Roman", Times, serif;
-  text-align: center;
-  
+  left: 50%;
+  top: 2%;
+  font-size: 18px;
 }
 
-p {}
+html {
+  background-color: rgb(255, 255, 155);
+  color: rgb(34, 139, 34);
+}
+
+p {
+  font-size: 14px,
+}
+
+.buttons {
+  left: 50%
+}
 
 nav {}
+
+header {
+  height: 7%;
+}
 
 a: hover {}
 
