@@ -11,7 +11,7 @@ html {
 }
 
 p {
-  font-size: 14px,
+  font-size: 14px;
 }
 
 .buttons {
@@ -24,8 +24,14 @@ header {
   height: 7%;
 }
 
-a: hover {}
+a: hover {
+  color: rgb(58, 139, 58);
+}
 
-a: visited {}
+a: visited {
+  color: rgb(58, 139, 58);
+}
 
-a: active {}
+a: active {
+  color: rgb(34, 139, 34);
+}
