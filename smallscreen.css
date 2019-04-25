@@ -9,6 +9,7 @@
     top: 2%;
     font-size: 18px;
   }
+
   a: hover {
     color: rgb(58, 139, 58);
   }
@@ -20,6 +21,7 @@
   a: active {
     color: rgb(34, 139, 34);
   }
+
   .wwa {
     text-align: center;
     background-color: rgb(255, 255, 155);
