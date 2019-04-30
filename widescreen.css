@@ -46,4 +46,8 @@
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
   }
+  
+  footer {
+	  text-align: center;
+  }
 }
