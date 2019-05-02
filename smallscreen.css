@@ -1,11 +1,8 @@
 @media screen and (min-width: 360px) {
   h1 {
     font-family: "Times New Roman", Times, serif;
-    left: 50%;
-    top: 2%;
     font-size: 18px;
     color: rgb(58, 139, 58);
-
   }
 
   a {
