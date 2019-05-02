@@ -12,27 +12,14 @@
     text-decoration: none;
   }
 
-  .wwa {
+  .wwa, .wctof, .wwh, .op {
     text-align: center;
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
-  }
 
   p {
     font-size: 12px;
     text-align: left;
-    color: rgb(58, 139, 58);
-  }
-
-  .wctof {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
-  }
-
-  .wwh {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
   }
 
