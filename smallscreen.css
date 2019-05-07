@@ -25,13 +25,25 @@
     color: rgb(58, 139, 58);
   }
 
-  .wctof {
+  .wofi {
     text-align: center;
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
   }
 
   .wwh {
+    text-align: center;
+    background-color: rgb(255, 255, 155);
+    color: rgb(58, 139, 58);
+  }
+
+  .m {
+    text-align: center;
+    background-color: rgb(255, 255, 155);
+    color: rgb(58, 139, 58);
+  }
+
+  .fp {
     text-align: center;
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
