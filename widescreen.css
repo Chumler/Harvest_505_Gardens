@@ -1,8 +1,6 @@
 @media screen and (max-width: 1920px) {
   h1 {
     font-family: "Times New Roman", Times, serif;
-    right: 50%;
-    top: 2%;
     font-size: 32px;
     color: rgb(58, 139, 58);
 
@@ -13,7 +11,7 @@
     text-decoration: none;
   }
 
-  .wwa {
+  .wwa, .wctof, .wwh, .op {
     text-align: center;
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
@@ -25,6 +23,7 @@
     color: rgb(58, 139, 58);
   }
 
+<<<<<<< HEAD
   .wofi {
     text-align: center;
     background-color: rgb(255, 255, 155);
@@ -49,6 +48,8 @@
     color: rgb(58, 139, 58);
   }
 
+=======
+>>>>>>> master
   footer {
 	  text-align: center;
   }
