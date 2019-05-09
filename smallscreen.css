@@ -2,7 +2,7 @@
   h1 {
     font-family: "Times New Roman", Times, serif;
     font-size: 18px;
-    color: rgb(58, 139, 58);
+    color: rgb(15, 139, 15);
   }
 
   a {
@@ -13,12 +13,12 @@
   .wwa{
     text-align: center;
     background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
+    color: rgb(15, 139, 15);
 
   p {
     font-size: 12px;
     text-align: left;
-    color: rgb(58, 139, 58);
+    color: rgb(15, 139, 15);
   }
 
   .m {
