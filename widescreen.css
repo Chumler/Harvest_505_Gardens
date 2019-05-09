@@ -11,7 +11,7 @@
     text-decoration: none;
   }
 
-  .wwa, .wctof, .wwh, .op {
+  .wwa{
     text-align: center;
     background-color: rgb(255, 255, 155);
     color: rgb(58, 139, 58);
@@ -23,33 +23,6 @@
     color: rgb(58, 139, 58);
   }
 
-<<<<<<< HEAD
-  .wofi {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
-  }
-
-  .wwh {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
-  }
-
-  .m {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
-  }
-
-  .fp {
-    text-align: center;
-    background-color: rgb(255, 255, 155);
-    color: rgb(58, 139, 58);
-  }
-
-=======
->>>>>>> master
   footer {
 	  text-align: center;
   }
